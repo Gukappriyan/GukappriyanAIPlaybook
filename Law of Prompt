@@ -1,0 +1,72 @@
+Most weak Claude output comes from weak direction, not weak tooling.
+The prompt is vague enough to create five possible answers.
+The context is missing, so Claude fills gaps with generic patterns.
+The format is unclear, so the answer arrives hard to use.
+The feedback loop never starts, so the same mistake repeats.
+ 
+That is why prompt quality matters for leaders and teams.
+Not because prompts are magic,
+but because they become the operating brief Claude works from.
+ 
+Start before the prompt, while the work is still being framed.
+Be direct and clear about the output you actually need.
+Provide context first, including the audience and decision.
+Ground the task in real data instead of loose assumptions.
+Set boundaries around scope,
+length,
+format,
+and what to exclude.
+ 
+Make the prompt personal to your goals,
+audience,
+constraints,
+and current business situation.
+Tell Claude what you already tried,
+so it builds on the work instead of repeating obvious ideas.
+ 
+Then structure the response before Claude starts writing.
+Ask for edge cases and trade-offs when the answer affects a decision.
+Use artifacts when the output needs shape the team can inspect:
+tables,
+code,
+structured outputs,
+charts,
+or comparison views.
+ 
+Control the format so the answer is immediately usable.
+Lock in the persona when expertise or perspective matters.
+Guide the tone so it fits the audience and channel.
+Avoid prompt conflicts,
+where one instruction asks for depth
+and another asks for speed, brevity, or a different format.
+ 
+After Claude responds,
+do not accept the first answer as final just because it sounds polished.
+Challenge it.
+Ask what is missing.
+Ask what could go wrong.
+Ask where the assumptions are weak or unsupported.
+ 
+Iterate in layers instead of asking for everything at once.
+Invite pushback so blind spots surface before the work ships.
+Verify facts when the output will be used externally.
+Ask for sources,
+confidence levels,
+or uncertainty flags when accuracy, risk, or trust matters.
+ 
+The strongest users think in systems, not one-off prompt tricks.
+They benchmark Claude against strong examples and clear standards.
+They use constraints to sharpen creativity instead of limiting it.
+They separate reasoning from final output when the task is complex.
+They manage context before it gets noisy, stale, or overloaded.
+ 
+Claude works better when the request is specific,
+the role is clear,
+the source material is real,
+and the review loop is active enough to improve the next answer.
+ 
+Better prompts create better answers.
+Better systems create repeatable outcomes.
+
+Which law would improve your next Claude workflow fastest?
+
