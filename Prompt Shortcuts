@@ -1,0 +1,160 @@
+# 100 Claude Prompt Shortcuts
+
+## 1. Explain & Understand
+
+* Explain **[topic]** → Break down simply.
+* ELI5 **[topic]** → Explain like I'm five.
+* TL;DR **[paste text]** → Too long; summarize.
+* Summarize **[paste text]** → Condense key points.
+* Key Points **[paste text]** → List main points.
+* Define **[word]** → Clear definition with context.
+* Example Of **[concept]** → Give a real example.
+* Analogy Of **[concept]** → Explain using an analogy.
+* Simplify **[paste text]** → Make easier to read.
+* Expand On **[topic]** → Add depth and details.
+
+---
+
+## 2. Think & Decide
+
+* Pros and Cons **[topic]** → Balanced view.
+* Compare **[A] vs [B]** → Side-by-side comparison.
+* Decision Matrix **[options]** → Evaluate choices.
+* SWOT **[topic or business]** → Analyze strengths, weaknesses, opportunities, and threats.
+* Risks Of **[plan]** → Potential pitfalls.
+* Counterarguments To **[position]** → Explore other perspectives.
+* Devil's Advocate **[position]** → Argue against it.
+* Step-By-Step **[task]** → Break into actionable steps.
+* Checklist For **[task]** → Create an actionable checklist.
+* Prioritize **[tasks/items]** → Rank by importance.
+* 80/20 Focus **[topic]** → Identify high-impact actions.
+* Common Mistakes With **[task]** → Things to avoid.
+* Fact Check **[claim]** → Verify accuracy.
+* Rewrite **[paste text]** → Improve clarity and tone.
+
+---
+
+## 3. Email & Messages
+
+* Email From **[bullet notes]** → Turn notes into a clear email.
+* Reply To **[paste email]** → Draft a professional reply.
+* Subject Line For **[email]** → Create compelling subject lines.
+* Follow-Up Email About **[topic]** → Write a polite follow-up.
+* Politely Decline **[situation]** → Say no professionally.
+* Apology For **[situation]** → Write a sincere apology.
+* Thank You Note For **[reason]** → Express gratitude.
+* Condolence Message For **[situation]** → Supportive and thoughtful.
+* Congratulation Message For **[reason]** → Celebrate achievements.
+
+---
+
+## 4. Work
+
+* Meeting Agenda For **[topic]** → Structured meeting agenda.
+* Action Items From **[notes]** → Extract tasks.
+* Executive Summary Of **[paste text]** → Concise overview.
+* Cover Letter For **[job description]** → Tailored cover letter.
+* Resume Bullet For **[achievement]** → Strong resume bullet.
+* LinkedIn Bio From **[details]** → Professional summary.
+* Interview Questions For **[role]** → Prepare interview questions.
+* Answer This Interview Question: **[question]** → Draft an excellent answer.
+* Performance Review Phrases For **[trait]** → Useful review comments.
+
+---
+
+## 5. Role-Play & Perspective
+
+* Act As **[role/situation]** → Respond as that role.
+* Multiple Perspectives On **[topic]** → View from different angles.
+* Devil's Advocate On **[topic]** → Challenge assumptions.
+* Quiz Me On **[topic]** → Test my knowledge.
+* Flashcards For **[topic]** → Create study cards.
+* Teach Me Like I'm **[level]** → Explain at any level.
+* I Disagree With This: **[opinion]** → Provide a respectful counterpoint.
+* What Would **[role]** Do? → Advice from that perspective.
+* Scenario Planning For **[situation]** → Explore possible outcomes.
+
+---
+
+## 6. Creative
+
+* Story About **[prompt]** → Write a short story.
+* Poem About **[topic]** → Write a poem.
+* Haiku About **[topic]** → Three-line haiku.
+* Joke About **[topic]** → Write a short joke.
+* Caption For **[photo description]** → Create a caption.
+* Tweet About **[topic]** → Short post under 280 characters.
+* LinkedIn Post About **[topic]** → Professional LinkedIn post.
+* Instagram Caption For **[description]** → Engaging caption.
+* Headline For **[article topic]** → Punchy title.
+* Name Ideas For **[thing]** → Brainstorm names.
+
+---
+
+## 7. Home & Life
+
+* Recipe For **[dish]** → Ingredients and steps.
+* Substitute For **[ingredient]** → Ingredient alternatives.
+* Shopping List For **[recipe or week]** → Organized shopping list.
+* Meal Plan For **[goal]** → Weekly meal plan.
+* Workout For **[goal]** → Exercise routine.
+* Packing List For **[trip type, days]** → What to pack.
+* Travel Itinerary For **[place, days]** → Day-by-day itinerary.
+* Gift Ideas For **[person, budget]** → Personalized gift ideas.
+* Budget Plan For **[income, goals]** → Simple budget.
+
+---
+
+## 8. Mind & Growth
+
+* Journal Prompt For **[mood/theme]** → Reflection prompt.
+* Gratitude Prompts → Questions to inspire gratitude.
+* Reframe This Thought: **[paste]** → Positive reframe.
+* Morning Routine For **[goal]** → Productive daily routine.
+* Habit Plan For **[goal]** → Build lasting habits.
+* SMART Goal From **[vague aim]** → Make goals specific and measurable.
+* Conversation Starters For **[setting]** → Great icebreakers.
+* Affirmations For **[need]** → Positive affirmations.
+* Book Recommendations Like **[book or topic]** → Personalized reading list.
+* Life Advice For **[situation]** → Practical guidance.
+
+---
+
+# Bonus: Combine Prompts
+
+Example 1
+
+Act as a QA Manager.
+
+1. Create a Meeting Agenda for Sprint Planning.
+2. Generate Action Items from the agenda.
+3. Draft a Follow-Up Email to the team.
+4. Create a Risk Assessment.
+5. Suggest Improvements.
+
+Example 2
+
+Explain OAuth 2.0.
+
+1. Explain it simply.
+2. Explain it like I'm five.
+3. Give an analogy.
+4. Create flashcards.
+5. Quiz me.
+
+Example 3
+
+Learn Any Topic
+
+1. Explain **[topic]**
+2. Summarize it.
+3. Give real-world examples.
+4. Create flashcards.
+5. Quiz me.
+6. Suggest projects.
+7. Recommend books.
+8. Recommend videos.
+9. Create interview questions.
+10. Give advanced concepts.
+
+These prompt templates work with Claude, ChatGPT, Gemini, Copilot, Grok, DeepSeek, and most modern AI assistants.
